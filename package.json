@@ -2,6 +2,7 @@
   "name": "arita-misus-galadarbs",
   "private": true,
   "version": "0.0.0",
+  "author": "Arita Misus",
   "type": "module",
   "scripts": {
     "dev": "vite",
